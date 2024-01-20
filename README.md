@@ -41,3 +41,20 @@ This is a representation of the result of predicts The image below is a frame wi
 ![result](https://github.com/lucasfreire01/Clothes_pixels/blob/main/download2.png)<br>
 Did a confusion matrix to show us a better vision.<br>
 ![confusion matrix](https://github.com/lucasfreire01/Clothes_pixels/blob/main/download3.png)<br>
+Finally overall with all classes and those accuracies.
+|   Class   | Precision | Recall | F1-Score | Support |
+|:---------:|:---------:|:------:|:--------:|:-------:|
+|  class 0  |   0.85    |  0.87  |   0.86   |  1000   |
+|  class 1  |   0.99    |  0.99  |   0.99   |  1000   |
+|  class 2  |   0.89    |  0.88  |   0.88   |  1000   |
+|  class 3  |   0.92    |  0.93  |   0.92   |  1000   |
+|  class 4  |   0.88    |  0.87  |   0.88   |  1000   |
+|  class 5  |   0.98    |  0.98  |   0.98   |  1000   |
+|  class 6  |   0.78    |  0.76  |   0.77   |  1000   |
+|  class 7  |   0.96    |  0.96  |   0.96   |  1000   |
+|  class 8  |   0.97    |  0.98  |   0.98   |  1000   |
+|  class 9  |   0.96    |  0.97  |   0.96   |  1000   |
+| Accuracy  |           |        |   0.92   | 10000   |
+| Macro Avg |   0.92    |  0.92  |   0.92   | 10000   |
+|Weighted Avg|  0.92    |  0.92  |   0.92   | 10000   |
+
