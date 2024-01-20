@@ -36,4 +36,8 @@ In this model, we use the Keras.Sequential and interlinking the layers is the Co
 Total params: 93322 (364.54 KB)<br>
 Trainable params: 93322 (364.54 KB)<br>
 Non-trainable params: 0 (0.00 Byte)<br>
-
+### Result
+This is a representation of the result of predicts The image below is a frame with pictures of the final forecast.<br>
+![result](https://github.com/lucasfreire01/Clothes_pixels/blob/main/download2.png)<br>
+Did a confusion matrix to show us a better vision.<br>
+![confusion matrix](https://github.com/lucasfreire01/Clothes_pixels/blob/main/download3.png)<br>
